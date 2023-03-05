@@ -1,1 +1,2 @@
 # MyRaytracer
+## still updating details
