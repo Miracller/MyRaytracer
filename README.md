@@ -106,6 +106,6 @@ no on-light sampling VS on-light sampling:
     
     ![image](https://user-images.githubusercontent.com/24697586/229332025-5c6a73d2-158a-4955-8219-0dcde904b720.png)
     
-    在根据边缘概率密度和条件概率密度，及分布函数，将极坐标转化为三维坐标。
+    再根据边缘概率密度和条件概率密度，及分布函数，将极坐标转化为三维坐标，进而在程序中使用。
 
     
