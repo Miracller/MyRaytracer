@@ -83,6 +83,8 @@ no on-light sampling VS on-light sampling:
         G2——微平面在光照和视线方向共同可见的比例，称为**联合遮蔽阴影函数 joint masking-shadowing function.**
 
         其中，G2由G1推导而来，同时一般微表面材质计算所说的几何函数就是指G2
+        
+        对于G函数来说，值域一般是[0,1], 自变量为半程向量和法线方向的点积
 
         - Smith 遮蔽函数： $G(o, i) = G_1(o) * G_1(i)$
 
